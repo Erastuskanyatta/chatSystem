@@ -80,6 +80,7 @@ justify-content-center align-items-center vh-100">
         </ul> 
     </div>
 </div>
+   //styling starts here. Please proceed.
 <style>
     .w-10 {
         width: 30px;
